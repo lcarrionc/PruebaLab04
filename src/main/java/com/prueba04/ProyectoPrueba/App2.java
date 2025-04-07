@@ -3,8 +3,9 @@ package com.prueba04.ProyectoPrueba;
 /**
  * Hello world!
  */
-public class App {
+public class App2 {
 	public static void main(String[] args) {
-		System.out.println("Este es un mensaje desde la 6");
+		System.out.println("Conflicto"
+				+ "");
 	}
 }
