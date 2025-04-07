@@ -5,6 +5,6 @@ package com.prueba04.ProyectoPrueba;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Este es un mensaje desde la 6");
+		System.out.println("Hola desde master");
 	}
 }
