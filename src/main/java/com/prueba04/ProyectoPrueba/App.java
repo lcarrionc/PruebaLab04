@@ -5,6 +5,8 @@ package com.prueba04.ProyectoPrueba;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Hola desde master");
+
+		System.out.println("Conflicto");
+
 	}
 }
